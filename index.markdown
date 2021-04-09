@@ -4,3 +4,15 @@
 
 layout: home
 ---
+
+Test one two.
+
+```ruby
+class Greet
+  attr_reader :name
+
+  def initialize(name = "Franz")
+    @name = name
+  end
+end
+```
