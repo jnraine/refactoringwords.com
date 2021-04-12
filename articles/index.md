@@ -12,7 +12,7 @@ permalink: /
 Use your refactoring skills to improve your writing.
 {: .fs-6 .fw-300 }
 
-[Watch the talk](#not-yet-posted){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Say hello](https://twitter.com/jnraine){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Watch the talk](https://railsconf.org/watch/evolution/refactoring-a-developer-s-guide-to-writing-well){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [Say hello](https://twitter.com/jnraine){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
