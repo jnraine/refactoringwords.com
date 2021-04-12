@@ -21,7 +21,7 @@ Use your refactoring skills to improve your writing.
 
 Sometimes, life gets in the way. That's what happened with this site, which is not ready yet.
 
-First, kudos to you for wanting to improve your writing skills. During the conference, I'll be writing a reference of the topics covered by _Refactoring: A Developer's Guide to Writing Well_ and posting it here. Stay tuned.
+First, kudos to you for wanting to improve your writing skills. During the conference, I'll be writing a reference of the topics covered by [Refactoring: A Developer's Guide to Writing Well](https://railsconf.com/program/sessions#session-1091) and posting it here. Stay tuned.
 
 In the meantime, you may find these books useful. I know I did.
 
